@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.m \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
+  /Users/niranjan/react-native/music-store/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.m \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h

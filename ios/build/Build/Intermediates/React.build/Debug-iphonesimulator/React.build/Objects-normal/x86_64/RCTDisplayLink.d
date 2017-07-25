@@ -1,10 +1,10 @@
 dependencies: \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTDisplayLink.m \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTDisplayLink.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTModuleData.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Profiler/RCTProfile.h
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTDisplayLink.m \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTDisplayLink.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Profiler/RCTProfile.h

@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTJSStackFrame.m \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTJSStackFrame.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTUtils.h
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTJSStackFrame.m \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTJSStackFrame.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTUtils.h

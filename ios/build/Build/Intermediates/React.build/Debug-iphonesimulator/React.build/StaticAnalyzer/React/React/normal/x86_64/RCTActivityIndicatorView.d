@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Views/RCTActivityIndicatorView.h
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Views/RCTActivityIndicatorView.m \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Views/RCTActivityIndicatorView.h

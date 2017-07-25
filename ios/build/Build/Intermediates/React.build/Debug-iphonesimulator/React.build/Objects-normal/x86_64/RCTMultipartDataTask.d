@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTMultipartDataTask.m \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTMultipartStreamReader.h
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTMultipartDataTask.m \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTMultipartStreamReader.h

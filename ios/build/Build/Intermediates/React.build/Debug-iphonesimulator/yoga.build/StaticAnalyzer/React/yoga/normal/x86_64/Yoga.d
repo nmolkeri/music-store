@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.c \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/ReactCommon/yoga/yoga/YGNodeList.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h
+  /Users/niranjan/react-native/music-store/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.c \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/ReactCommon/yoga/yoga/YGNodeList.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h

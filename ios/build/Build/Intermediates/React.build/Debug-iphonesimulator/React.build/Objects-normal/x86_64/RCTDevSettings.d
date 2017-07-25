@@ -1,21 +1,21 @@
 dependencies: \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Modules/RCTDevSettings.mm \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Modules/RCTDevSettings.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTBridge+JavaScriptCore.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/Profiler/RCTProfile.h \
-  /Users/niranjanmolkeri/react-native/imageTransition/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/niranjan/react-native/music-store/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/niranjan/react-native/music-store/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTBridge+JavaScriptCore.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/niranjan/react-native/music-store/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h
